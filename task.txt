@@ -1,0 +1,7 @@
+Mb1; create a stock list; take a count of the stock items in inventory, and then create a an inventory list; 2024-01-20; 2024-01-20; No
+Mb2; intro; introduce yourself at the next staff meeting; 2024-01-20; 2024-01-25; No
+Mb2; help out; help out other employees with their tasks in sapre time; 2024-01-20; 2024-02-28; No
+Mb3; intro; introduce yourself at the next staff meeting; 2024-01-20; 2024-02-05; No
+Mb4; help yourself; teach yourself how to use the companies interface; 2024-01-20; 2024-01-22; No
+Mb3; help out; help the employees with the major project launch; 2024-01-20; 2024-05-06; No
+admin; register users; register two more new users and give them two tasks each; 2024-01-20; 2024-01-20; Yes
